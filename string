@@ -1,0 +1,14 @@
+#include <iostream>
+ 
+ using namespace std;
+ int main(){
+     string namaSiswa[4] = {
+     "Annniko" ,
+     "Hannis" ,
+     "Samuel" ,
+     "Justin"
+     };
+     for (int i = 0; i <4; i++ ){
+      cout<<namaSiswa[1]<<endl;
+     
+      returnn 0,
